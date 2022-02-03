@@ -1,1 +1,1 @@
-# psych-hospital
+Data on people discharged from psychiatric hospitals in Scotland between 2002 and 2020, presented as a 3-year rolling average, and linked to Scottish Index of Multiple Deprivation. The data can be joined to spatial data to create a map of Scotland showing the discharge rates for Local Authorities, linked to deprivation.
